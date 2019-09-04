@@ -1,0 +1,9 @@
+p {
+    color: purple;
+    font-family: 'Give You Glory', cursive;
+    font-size: 200px;
+    border: solid;
+    border-color: aquamarine;
+    text-align: center;
+    transform: rotate(15deg);
+}
